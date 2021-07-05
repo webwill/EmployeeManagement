@@ -25,4 +25,8 @@ public class Employee implements MeetingTimes{
             return false;
         }
     }
+    public String getEmployeeName(){
+        return name;
+        
+    }
 }

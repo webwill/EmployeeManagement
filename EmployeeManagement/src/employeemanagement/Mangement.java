@@ -14,6 +14,8 @@ public class Mangement extends Employee{
     public Mangement(String name, int phoneNumber) {
         super(name, phoneNumber);
     }
+    
+     
        
     
 }
