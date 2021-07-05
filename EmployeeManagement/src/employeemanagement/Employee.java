@@ -7,9 +7,9 @@ package employeemanagement;
 
 /**
  *
- * @author willi
+ * @author william
  */
-public class Employee {
+public class Employee implements MeetingTimes{
     
     private String name;
     private int phoneNumber;

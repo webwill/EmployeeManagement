@@ -7,12 +7,14 @@ package employeemanagement;
 
 /**
  *
- * @author willi
+ * @author william
  */
 public class Engineer extends Employee{
     
     public Engineer(String name, int number) {
         super(name,number);
     }
+    
+    
     
 }

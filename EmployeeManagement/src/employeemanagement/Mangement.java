@@ -7,7 +7,7 @@ package employeemanagement;
 
 /**
  *
- * @author willi
+ * @author william
  */
 public class Mangement extends Employee{
 

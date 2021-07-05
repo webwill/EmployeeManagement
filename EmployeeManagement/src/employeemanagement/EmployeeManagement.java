@@ -9,7 +9,7 @@ package employeemanagement;
 import java.util.Scanner;
 /**
  *
- * @author willi
+ * @author william
  */
 public class EmployeeManagement {
 
@@ -26,7 +26,6 @@ public class EmployeeManagement {
         String name = sc.next();
         if (name.length() >0) {
              System.out.println("The new employee name is " + name);
-             
         }else{
             System.err.println("name is leaved empty");
         }

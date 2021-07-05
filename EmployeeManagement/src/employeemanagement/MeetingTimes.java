@@ -9,9 +9,6 @@ package employeemanagement;
  *
  * @author william
  */
-public class Hr extends Employee{
-
-    public Hr(String name, int phoneNumber) {
-        super(name, phoneNumber);
-    }
+public interface MeetingTimes {
+    
 }
